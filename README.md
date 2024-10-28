@@ -10,7 +10,9 @@ pkg install python
 
 pkg install git
 
-Click on this link to start the process: WCoin Tapbot. When prompted, count to 4 (1, 2, 3, 4).
+Click on this link to start the process: [WCoin Tapbot](https://t.me/wcoin_tapbot?start=MTcxOTQxMDI0NA==). When prompted, count to 4 (1, 2, 3, 4).
+
+
 
 Disconnect Your Internet Connection:
 
