@@ -2,16 +2,15 @@ REQUIREMENTS
 
 Make sure your device has Python, Git and terminal installed. If not, you can install them first
 
-Go to the Google Play Store or download Termux from F-Droid, which is an open-source app store if it’s unavailable in the Play Store.
+Go to the Google Play Store or download Termux from F-Droid.
+
 Install and open Termux.
 
 pkg install python
 
 pkg install git
 
-Open Terminal/CMD/termux
-
-Click on this link to start the process: [WCoin Tapbot](https://t.me/wcoin_tapbot?start=MTcxOTQxMDI0NA==). When prompted, count to 4 (1, 2, 3, 4).
+Click on this link to start the process: WCoin Tapbot. When prompted, count to 4 (1, 2, 3, 4).
 
 Disconnect Your Internet Connection:
 
@@ -27,12 +26,17 @@ Copy everything from https://alohomo up to (but not including) the error message
 git clone https://github.com/ShadowScripts1/TG-w-coin.git
 
 
-cd TG-w-coin.git
+ cd TG-w-coin
+
+  pip install -r requirements.txt
+
+
+    python wcoin.py
 
 Paste Your Session Link: https://alohomora-   
 
 
-Enter the desired amount of WCoins you want. 799999999i888
+Enter the desired amount of WCoins you want. 7999999991888
 
 Enter Your Auth Key: NOW
 
